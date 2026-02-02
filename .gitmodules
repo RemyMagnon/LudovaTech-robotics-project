@@ -4,3 +4,6 @@
 [submodule "robot-code"]
 	path = robot-code
 	url = https://github.com/RemyMagnon/robot-code
+[submodule "camera-code"]
+	path = camera-code
+	url = https://github.com/RemyMagnon/camera-code
