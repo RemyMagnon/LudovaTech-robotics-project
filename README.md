@@ -2,7 +2,7 @@
 
 This is the robotics project I worked on in high school as captain of the robotics team. It consists of building two small autonomous robots designed to play soccer against another team of two robots.
 
-<h3>**Details of the project:**<h3>
+<h3>**Details of the project:**
 
 [Video demonstration](https://youtu.be/_eiEAFdv0b4?si=FcbZjqLqs41bY-pg) of how the robot works.  
 Additional videos available on the [LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech). 
