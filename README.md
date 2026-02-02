@@ -7,5 +7,5 @@ This is the robotics project I worked on in high school as captain of the roboti
 
 Additional videos available on the [LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech). 
 
-robot-code: Main C++ code of the robot on the Teensy 4.1 microcontroller.  
-cam-code: Image recognition Python code on the OpenMV camera.
+- robot-code: Main C++ code of the robot on the Teensy 4.1 microcontroller.  
+- cam-code: Image recognition Python code on the OpenMV camera.
