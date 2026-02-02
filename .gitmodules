@@ -1,3 +1,6 @@
 [submodule "robot-prog"]
 	path = robot-prog
 	url = https://github.com/LudovaTech/robot-prog
+[submodule "robot-code"]
+	path = robot-code
+	url = https://github.com/RemyMagnon/robot-code
