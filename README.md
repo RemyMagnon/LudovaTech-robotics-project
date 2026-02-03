@@ -8,7 +8,7 @@ This is the robotics project I worked on in high school as captain of the roboti
 [Video demonstration](https://youtu.be/_eiEAFdv0b4?si=FcbZjqLqs41bY-pg) of how the robot works.  
 Additional videos available on the [LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech). 
 
-Details:
+Details of the repository:
 - robot-code: Main C++ code of the robot on the Teensy 4.1 microcontroller.  
 - camera-code: Image recognition Python code on the OpenMV camera.
 - LudovaTech poster: Overview of the project and inner workings of the robot (graphic design courtesy of @D'Artagnant).
