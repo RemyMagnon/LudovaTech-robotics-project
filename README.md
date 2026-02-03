@@ -31,4 +31,4 @@ Details of the repository:
 
 **Design and Manufacturing**
 - CADing: 3D modeled the robot's structural parts on FreeCAD, and optimized the physical organization of parts to facilitate the manufacturing process.
-- Manufacturing: 3D printed using UPBOX and Creality K1, and laser cut acrylic parts using Trotec Speedy 100.
+- Manufacturing: 3D printed PLA and ABS parts using UPBOX and Creality K1, and laser cut acrylic parts using Trotec Speedy 100.
