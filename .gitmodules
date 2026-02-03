@@ -7,3 +7,6 @@
 [submodule "camera-code"]
 	path = camera-code
 	url = https://github.com/RemyMagnon/camera-code
+[submodule "CAD-models"]
+	path = CAD-models
+	url = https://github.com/RemyMagnon/CAD-models.git
