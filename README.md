@@ -6,7 +6,7 @@ This is the robotics project I worked on in high school as captain of the roboti
 ## **Details of the project:**
 
 [Video demonstration](https://youtu.be/_eiEAFdv0b4?si=FcbZjqLqs41bY-pg) of how the robot works.  
-Additional videos available on the [LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech). 
+Additional videos available on the [LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech).   
 [Google Drive](https://drive.google.com/drive/folders/1Y74dZfu8a425qoM3rjbtKIES4N7hrRu5): images taken during the development of the project.
 
 Details of the repository:
