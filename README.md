@@ -1,6 +1,6 @@
 # LudovaTech-robotics-project
 
-This is the robotics project I worked on in high school as captain of the robotics team. It consists of building two small autonomous robots designed to play soccer against another team of two robots.
+This is the robotics project I worked on in high school as captain of the robotics team. It consists of building two autonomous robots designed to play soccer against another team of two robots.
 
 
 ## **Details of the project:**
