@@ -9,10 +9,11 @@ Additional videos available on the [LudovaTech YouTube channel](https://www.yout
 
 ## **Details of the repository:**
 
-- CAD-models: 3D models of the robot.
-- robot-code: Main C++ code of the robot on the Teensy 4.1 microcontroller.  
+- CAD-models: 3D models of the robots, with additional images included.
+- robot-code: Main C++ code of the robots on the Teensy 4.1 microcontroller.  
 - camera-code: Image recognition Python code on the OpenMV camera.
-- LudovaTech poster: Overview of the project and inner workings of the robot (graphic design courtesy of @D'Artagnant).
+- LudovaTech poster: Overview of the project and inner workings of the robots (graphic design courtesy of @D'Artagnant).
+- LudovaTech design document: Detailed technical description of the robots and overview of our participation in competitions.
 
 
 ## **What I worked on:**
@@ -21,13 +22,13 @@ Additional videos available on the [LudovaTech YouTube channel](https://www.yout
 - PCB design: Worked on the schematic and routing of the main PCB and the power board on EasyEDA, and soldered components on the PCBs.
 - Battery management: Handled LiPo battery safety measures during operation and charging, and harnessed the battery wires.
 - Actuators and sensors: Tested and implemented the motors, solenoids, LIDARs, and cameras into the robots. Worked on data communication systems (digital, analog, PWM, UART).
-- Assembly: Assembled the structural parts and PBCs into the robot.
+- Assembly: Assembled the structural parts and PBCs into the robots.
 
 **Programming**
-- Main code: Tested the implementation of the main code into the robot in real-life, and coded part of the robot's movement system in C++.
+- Main code: Tested the implementation of the main code into the robots in real-life, and coded part of the robots' movement system in C++.
 - Camera code: Coded the ball and goal recognition algorithm in Python, and data communication between the camera and the Teensy microcontroller.
-- Positioning system: Coded the positioning system of the robot in C++, by analyzing LIDAR data and extrapolating the position of the robot inside of the soccer field.
+- Positioning system: Coded the positioning system of the robots in C++, by analyzing LIDAR data and extrapolating the position of the robots inside of the soccer field.
 
 **Design and Manufacturing**
-- CADing: 3D modeled the robot's structural parts on FreeCAD, and optimized the physical organization of parts to facilitate the manufacturing process.
+- CADing: 3D modeled the robots' structural parts on FreeCAD, and optimized the physical organization of parts to facilitate the manufacturing process.
 - Manufacturing: 3D printed PLA and ABS parts using UPBOX and Creality K1, and laser cut acrylic parts using Trotec Speedy 100.
