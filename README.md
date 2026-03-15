@@ -13,7 +13,7 @@ Additional videos available on the [LudovaTech YouTube channel](https://www.yout
 - robot-code: Main C++ code of the robots on the Teensy 4.1 microcontroller.  
 - camera-code: Image recognition Python code on the OpenMV camera.
 - LudovaTech poster: Overview of the project and inner workings of the robots (graphic design courtesy of @D'Artagnant).
-- LudovaTech design document: Detailed technical description of the robots and overview of our participation in competitions.
+- LudovaTech design document: Detailed technical description of the robots and struggles encountered.
 
 
 ## **What I worked on:**
