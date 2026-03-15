@@ -39,5 +39,5 @@ When I started doing robotics by myself in middle school, I basically didn't kno
 
 When I started leading my own team, I also learned what it was like to manage a relatively large scale project. I made sure to distribute tasks and funding properly to make the project advance forward as fast as I could. The "simplify as much as possible" mindset proved to be successful, as we saved a lot of time and money. I don't think we would have completed the project without it. I still made many organizational mistakes, but I just needed to communicate more about what I was doing (and sleep more because I get grumpy way faster when I lack sleep).
 
-Today, even after my departure, the robotics team I built still lives. New members join every year, and learn how to build robots my actually doing it.
+Today, even after my departure, the robotics team I built still lives. New members join every year, and learn how to build robots by actually doing it.
 
