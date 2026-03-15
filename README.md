@@ -8,11 +8,11 @@ This is the robotics project I worked on in high school as founder and captain o
 
 ## **Details of the repository:**
 
-- CAD-models: 3D models of the robots, with additional images included.
+- CAD-models: 3D models of the robots, with additional images included.  
 - robot-code: Main C++ code of the robots on the Teensy 4.1 microcontroller.  
-- camera-code: Image recognition Python code on the OpenMV camera.
-- LudovaTech poster: Overview of the project and inner workings of the robots (graphic design courtesy of @D'Artagnant).
+- camera-code: Image recognition Python code on the OpenMV camera.  
 - LudovaTech design document: Detailed technical description of the robots and struggles encountered.  
+- LudovaTech poster: Overview of the project and inner workings of the robots (graphic design courtesy of @D'Artagnant).  
 
 
 ## **What I worked on:**
