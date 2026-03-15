@@ -2,8 +2,8 @@
 
 This is the robotics project I worked on in high school as founder and captain of the robotics team. It consists of two autonomous robots designed to play soccer against another team of two robots.  
 
-[Google Drive](https://drive.google.com/drive/folders/1gkIxhxm4YXJWOHLKBpufCNScrH6JFMv0): Detailed evolution of the project with images and videos.
-[LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech): Video demonstrations of the robots in action.  
+[Google Drive](https://drive.google.com/drive/folders/1gkIxhxm4YXJWOHLKBpufCNScrH6JFMv0): Detailed evolution of the project with images and videos.  
+[LudovaTech YouTube channel](https://www.youtube.com/@LudovaTech): Video demonstrations of the robots in action.
 
 
 ## **Details of the repository:**
