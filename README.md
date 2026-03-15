@@ -31,3 +31,11 @@ This is the robotics project I worked on in high school as founder and captain o
 **Design and Manufacturing**
 - CADing: 3D modeled the robots' structural parts on FreeCAD, and optimized the physical organization of parts to facilitate the manufacturing process.
 - Manufacturing: 3D printed PLA and ABS parts using UPBOX and Creality K1, and laser cut acrylic parts using Trotec Speedy 100.
+
+
+## **What I took from the project:**
+
+When I started doing robotics by myself in middle school, I basically didn't know anything besides Python programming. Needless to say, I was completely clueless. But I slowly figured out things like electronics and manufacturing. I never really had access to advanced components, so I had to work with what I had. I did not become an "expert" in robotics, but I can confidently say that I have become really good at making basic components achieve insane things you didn't even think they could achieve. One of the teams I once played against during competition could not believe that robots as simple as mine could beat their really complex robots.
+
+When I started leading my own team, I also learned what it was like to manage a relatively large scale project. I made sure to distribute tasks and funding properly to make the project advance forward as fast as I could. The "simplify as much as possible" mindset proved to be successful, as we saved a lot of time and money. I don't think we would have completed the project without it. I still made many organizational mistakes, but I just needed to communicate more about what I was doing (and sleep more because I get grumpy way faster when I lack sleep).
+
